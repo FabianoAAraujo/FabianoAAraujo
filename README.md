@@ -1,4 +1,4 @@
-- 👋 Olá! Meu nome é Fabiano Alves Araujo.
+- 👋 Olá! Me chamo Fabiano Alves Araujo.
 - 👀 Estou interessado em me formar e atuar como profissional de desenvolvimento.
 - 🌱 Atuamente, estou cursando graduação em Análise e Desenvolvimeno de Sistemas, com foco na linguagem de programação C#. Também estou fazendo curso de Desenvolvimento Web (HTML CSS Javascript).
 - 💞️ Quero colaborar para um mundo de tecnologia mais eficiente em soluções.
